@@ -1,3 +1,0 @@
-# programmation_r
-
-TEST
